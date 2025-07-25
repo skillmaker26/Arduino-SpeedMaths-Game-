@@ -192,7 +192,6 @@ int solcounter = 0; // Keeps track of total correct answers (score)
 
 * Used in **schools**, **coaching centers**, or **STEM workshops** to enhance students' mental arithmetic skills.
 * Helps children improve **calculation speed**, **pattern recognition**, and **problem-solving** under pressure.
-* Promotes active recall and quick thinking, essential for competitive exams like Olympiads, NTSE, and SATs.
 
 ---
 
