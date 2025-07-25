@@ -198,4 +198,3 @@ This project teaches:
 
 ---
 
-Would you like me to format this as a **README.md** section too, for uploading to GitHub?
