@@ -189,12 +189,10 @@ int solcounter = 0; // Keeps track of total correct answers (score)
 
 ## Educational Value
 
-This project teaches:
 
-* **Basic math logic** and problem-solving under pressure.
-* How to work with **LCDs**, **keypads**, **EEPROM**, and **buzzers**.
-* How to use **millis()**, `tone()`, `random()`, and `EEPROM` in Arduino programming.
-* How to combine **hardware + software** for interactive systems.
+* Used in **schools**, **coaching centers**, or **STEM workshops** to enhance students' mental arithmetic skills.
+* Helps children improve **calculation speed**, **pattern recognition**, and **problem-solving** under pressure.
+* Promotes active recall and quick thinking, essential for competitive exams like Olympiads, NTSE, and SATs.
 
 ---
 
